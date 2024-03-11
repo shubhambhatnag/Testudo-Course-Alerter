@@ -1,0 +1,10 @@
+# Ignore all files
+*
+
+# Except the following:
+!.gitignore
+!courseFrontend.py
+!Procfile
+!requirements.txt
+
+
