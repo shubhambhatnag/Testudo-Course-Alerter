@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 - DB_URL: The connection string for your PostgreSQL database
 - APP_EMAIL: The email address from which notifications will be sent
-- APP_PASSWORD: The password for the APP_EMAIL account
+- APP_PASSWORD: The app password for the APP_EMAIL account
 
 4. Run the application:
  ```bash
